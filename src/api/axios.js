@@ -1,7 +1,7 @@
 import axios from "axios"
 
 const api = axios.create({
-    baseURL: "https://localhost:7125/api",
+    baseURL: "https://guleb23-apiformarket-81d6.twc1.net/api",
     withCredentials: false,
 })
 
